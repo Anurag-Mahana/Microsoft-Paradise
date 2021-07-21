@@ -4,15 +4,7 @@
     font-family: sans-serif;
 }
 
-/* .hero{
-     width: 100%;
-     height: 100%;
-     background: url("images/video.webm");
-     background-size: cover;
-    background-position:center;
-    position:relative;
-    overflow: hidden; 
-} */
+
 body{
     /* background-image: url('bg.jpeg'); 
     background-size: cover; */
@@ -22,26 +14,6 @@ body{
     height: 100vh;
 }
 
-/* #vid{
-    position:fixed;
-    z-index: -1;
-} */
-/* @media (min-aspect-ratio: 18/9) {
-    #vid {
-        width:100%;
-        height: auto;
-    }
-} */
-/* @media (max-aspect-ratio: 18/9) {
-    #vid { 
-        width:auto;
-        height: 100%; 
-    }
-    #navbar
-    {
-        width:50%;
-    }
-     */
 
 #vid {
     position: center;
@@ -53,18 +25,6 @@ body{
     align-items: flex-start;
     z-index: -1;
 }
-
-/* #vid {
-    z-index: -1;
-    position: fixed;
-    width: 80%;
-    height: auto;
-    min-width: 100%;
-    min-height: 100%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-80%, -80%);
-} */
 
 
 .logo{
